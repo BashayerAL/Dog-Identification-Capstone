@@ -30,4 +30,5 @@ CSV files
 
 ### Medium Article
 
-The analysis is discussed in this article here
+The analysis is discussed in this article here :
+https://medium.com/@bashayer/dog-breed-classifier-b4870acc1b2a
