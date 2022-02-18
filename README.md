@@ -11,8 +11,9 @@ Keras
 Pandas
 Matplotlib
 
-###The dataset used 
-This is the link for it Dataset.
+### The dataset used 
+This is the link for it:
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 ### Steps
 The notebook is separated into steps.
 
