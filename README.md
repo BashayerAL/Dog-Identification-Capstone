@@ -14,6 +14,8 @@ Matplotlib
 ### The dataset used 
 This is the link for it:
 https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+Human dataset:
+ dataset [https://top4top.io/downloadf-2261o8d051-zip.html]
 ### Steps
 The notebook is separated into steps.
 
